@@ -1,6 +1,6 @@
-# 大文件
-input.zip
-*.zip
+# 大文件 - 使用Git LFS处理
+# input.zip
+# *.zip
 
 # macOS
 .DS_Store
